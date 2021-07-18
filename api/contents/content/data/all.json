@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-07-18T09:20:42.989419Z",
+      "created": "2021-07-18T13:42:51.507992Z",
       "format": null,
-      "last_modified": "2021-07-18T09:19:16.954308Z",
+      "last_modified": "2021-07-18T13:41:37.028010Z",
       "mimetype": "image/png",
       "name": "lenna.png",
       "path": "content/data/lenna.png",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2021-07-18T09:20:42.989419Z",
+  "created": "2021-07-18T13:42:51.507992Z",
   "format": "json",
-  "last_modified": "2021-07-18T09:20:42.989419Z",
+  "last_modified": "2021-07-18T13:42:51.507992Z",
   "mimetype": null,
   "name": "data",
   "path": "content/data",
